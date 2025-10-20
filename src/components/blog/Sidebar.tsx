@@ -13,7 +13,7 @@ interface SidebarProps {
 
 export const Sidebar = ({ selectedCategory = "All", onCategoryChange }: SidebarProps) => {
   const [isSubscribeOpen, setIsSubscribeOpen] = useState(false);
-  const recentPosts = blogPosts.slice(0, 4);
+  const recentPosts = blogPosts.slice(0, 6);
 
   return (
     <>
