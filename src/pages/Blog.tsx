@@ -51,7 +51,7 @@ export default function Blog() {
       
       <footer className="border-t mt-20">
         <div className="container py-8 text-center text-sm text-muted-foreground">
-          <p>© 2024 DevBlog. Built with passion for sharing knowledge.</p>
+          <p>© 2025 DevBlog. Built with passion for sharing knowledge.</p>
         </div>
       </footer>
     </div>
